@@ -27,7 +27,7 @@ project.getTasks().withType(JavaCompile){
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.muserpol.pvt'
+    namespace 'com.example.espresso'
     compileSdkVersion 33
 
     defaultConfig {
